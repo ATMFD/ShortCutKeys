@@ -1,17 +1,9 @@
 # ShortCutKeys
 
-ShortCutKeys is a program that allow you to create a shortcut for any action.
+ShortCutKeys is a program that allow you to create a shortcut of key for any action.
 
-<<<<<<< HEAD
-ShortCutKeys Installer V1.4.4 : <a href="https://github.com/ATMFD/ShortCutKeys/raw/main/ShortCutKeys%20Installer%20V1.4.4.1.exe">Download</a>
+ShortCutKeys Installer V1.4.5.0 : <a href="https://github.com/ATMFD/ShortCutKeys/raw/refs/heads/main/ShortCutKeys%20V1.4.5.0%20Installer.exe">Download</a>
 =======
-ShortCutKeys Installer V1.4.4.1 : <a href="https://github.com/ATMFD/ShortCutKeys/raw/main/ShortCutKeys%20Installer%20V1.4.4.1.exe">Download</a>
->>>>>>> 119ceaf4b39db1cbfec866afd73c670a699a928f
+ShortCutKeys Installer V1.4.5.0 : <a href="https://github.com/ATMFD/ShortCutKeys/raw/refs/heads/main/ShortCutKeys%20Pack%20V1.4.5.0.rar">Download</a>
 
-<<<<<<< HEAD
-ShortCutKeys Pack V1.4.4 : <a href="https://github.com/ATMFD/ShortCutKeys/raw/main/ShortCutKeys%20Pack%20V1.4.4.1.rar">Download</a>
-=======
-ShortCutKeys Pack V1.4.4.1 : <a href="https://github.com/ATMFD/ShortCutKeys/raw/main/ShortCutKeys%20Pack%20V1.4.4.1.rar">Download</a>
->>>>>>> 119ceaf4b39db1cbfec866afd73c670a699a928f
-
-Note : ShortCutKeys is early access...
+Note : ShortCutKeys is early access.
