@@ -6,4 +6,4 @@ ShortCutKeys is a program that allow you to create a shortcut of key for any act
 <!--
 ## ShortCutKeys Pack V1.4.5.0 : <a href="https://github.com/ATMFD/ShortCutKeys/raw/refs/heads/main/ShortCutKeys%20Pack%20V1.4.5.0.rar">Download</a>
 -->
-Note : ShortCutKeys is early access.
+Note : ShortCutKeys is under development.
